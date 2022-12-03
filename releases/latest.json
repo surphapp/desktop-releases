@@ -1,23 +1,23 @@
 {
-  "version": "v0.1.1",
+  "version": "v0.1.2",
   "notes": "Minor updates",
   "pub_date": "2022-12-03T00:00:00Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUkRSbjNNOWNGTnBCVGcxd0w0ekpvV29yN1VSVC8wck9DWmdTUnVKOHpSazYwdTRZWkEzSVA0RWN5WmJaeFdHSW9KMFdSaW5QZWhGMG41RzY5S3JTOHFhM2pLNG5rOEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcwMDg2NzQ2CWZpbGU6U3VycGguYXBwLnRhci5negplWXhoS3JmeHE4ZmJsTks5WXpKR3JwTHBLWFJ6KzRyZkt6akhKckFRNE5xZEM4a1F5K3d0eXJ3aVlQZWQyUWtjaGRFNk5wTVVabE40UUZXZUVwRXlBZz09Cg==",
-      "url": "https://github.com/surphapp/releases/releases/download/v0.1.1/Surph.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUkRSbjNNOWNGTnJEcHR0dlJGVkx2YlprcmZQckIwWStKbnVuWlJJREpraVBPZ29hb3FwL3V3bEFHQlIwS3d2Y0pNVnF0ZE4rQ09VTVErVkZ1WHlGQ3hQR0lmcmlJY0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcwMDg5MDM1CWZpbGU6U3VycGguYXBwLnRhci5negpZYm1VMzkzV1hDanQ4akNQaU5ZK0ZHSWNxWjk5NWQ1RTBjak9NN0FzQlFFNVIzS1hBLzhDM1orZzFXTk9OYnFZaEdVYWEvN3ZLUnFJelQzMnEyMllEUT09Cg==",
+      "url": "https://github.com/surphapp/releases/releases/download/v0.1.2/Surph.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUkRSbjNNOWNGTnBCVGcxd0w0ekpvV29yN1VSVC8wck9DWmdTUnVKOHpSazYwdTRZWkEzSVA0RWN5WmJaeFdHSW9KMFdSaW5QZWhGMG41RzY5S3JTOHFhM2pLNG5rOEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcwMDg2NzQ2CWZpbGU6U3VycGguYXBwLnRhci5negplWXhoS3JmeHE4ZmJsTks5WXpKR3JwTHBLWFJ6KzRyZkt6akhKckFRNE5xZEM4a1F5K3d0eXJ3aVlQZWQyUWtjaGRFNk5wTVVabE40UUZXZUVwRXlBZz09Cg==",
-      "url": "https://github.com/surphapp/releases/releases/download/v0.1.1/Surph.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUkRSbjNNOWNGTnJEcHR0dlJGVkx2YlprcmZQckIwWStKbnVuWlJJREpraVBPZ29hb3FwL3V3bEFHQlIwS3d2Y0pNVnF0ZE4rQ09VTVErVkZ1WHlGQ3hQR0lmcmlJY0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcwMDg5MDM1CWZpbGU6U3VycGguYXBwLnRhci5negpZYm1VMzkzV1hDanQ4akNQaU5ZK0ZHSWNxWjk5NWQ1RTBjak9NN0FzQlFFNVIzS1hBLzhDM1orZzFXTk9OYnFZaEdVYWEvN3ZLUnFJelQzMnEyMllEUT09Cg==",
+      "url": "https://github.com/surphapp/releases/releases/download/v0.1.2/Surph.app.tar.gz"
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/surphapp/releases/releases/download/v0.1.1/Surph.AppImage.tar.gz"
+      "url": "https://github.com/surphapp/releases/releases/download/v0.1.2/Surph.AppImage.tar.gz"
     },
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/surphapp/releases/releases/download/v0.1.1/Surph.x64.msi.zip"
+      "url": "https://github.com/surphapp/releases/releases/download/v0.1.2/Surph.x64.msi.zip"
     }
   }
 }
