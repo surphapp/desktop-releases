@@ -12,7 +12,11 @@ jobs:
   release-macos-application:
     runs-on: macos-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Check out desktop-tauri repo
+        uses: actions/checkout@master
+        with:
+          repository: surphapp/desktop-tauri
+          token: ${{ secrets.GH_TOKEN }}
       - uses: actions/setup-node@v3
         with:
           node-version: "18.x"
