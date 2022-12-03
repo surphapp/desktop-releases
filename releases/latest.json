@@ -1,0 +1,23 @@
+{
+  "version": "v0.1.1",
+  "notes": "Minor updates",
+  "pub_date": "2022-12-03T00:00:00Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUkRSbjNNOWNGTnRIakRwVXlCeFVaNTlDeXcxeEhpK1k0N3hta0R4THlDVDRiZ1FtSTVGUlZZTE0xbUpiK25YMGpsckxmbXFnUWlPSkRXdG1EVFpSV1dYTDV0Y1NQUmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcwMDgzMjM3CWZpbGU6U3VycGguYXBwLnRhci5negpWQzl0ZFdHdmtwSnhFeXJOWlRiV0tkc0NjUS9EZWpNV3M0WTA5M3NnRllGUVF6RzY4RThLblBDeUFBYkd3dXNHQTZDdHpUNWQ5UDc4Wm9DSVYrNDlDUT09Cg==",
+      "url": "https://github.com/surphapp/releases/releases/download/v0.1.1/Surph.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUkRSbjNNOWNGTnRIakRwVXlCeFVaNTlDeXcxeEhpK1k0N3hta0R4THlDVDRiZ1FtSTVGUlZZTE0xbUpiK25YMGpsckxmbXFnUWlPSkRXdG1EVFpSV1dYTDV0Y1NQUmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcwMDgzMjM3CWZpbGU6U3VycGguYXBwLnRhci5negpWQzl0ZFdHdmtwSnhFeXJOWlRiV0tkc0NjUS9EZWpNV3M0WTA5M3NnRllGUVF6RzY4RThLblBDeUFBYkd3dXNHQTZDdHpUNWQ5UDc4Wm9DSVYrNDlDUT09Cg==",
+      "url": "https://github.com/surphapp/releases/releases/download/v0.1.1/Surph.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "",
+      "url": "https://github.com/surphapp/releases/releases/download/v0.1.1/Surph.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/surphapp/releases/releases/download/v0.1.1/Surph.x64.msi.zip"
+    }
+  }
+}

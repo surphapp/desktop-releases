@@ -17,10 +17,13 @@ jobs:
         with:
           repository: surphapp/desktop-tauri
           token: ${{ secrets.GH_TOKEN }}
-      - uses: actions/setup-node@v3
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: "18.x"
-      - name: install Rust stable
+
+      - name: Install Rust stable
         uses: actions-rs/toolchain@v1
         with:
           toolchain: stable
